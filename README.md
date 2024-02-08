@@ -28,9 +28,9 @@ If you have any questions or suggestions regarding my projects, I'd love to hear
 Outside the programming world, I enjoy learning new things and engaging in various activities. Here are a few things that fascinate me:
 
 - **Formula 1**
-- **Soccer**
+- **Football**
 - **Handball**
-- **History**
+- **History and culture**
 
 ## License
 
