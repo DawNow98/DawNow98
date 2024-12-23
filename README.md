@@ -16,11 +16,11 @@ Additionally, I'm passionate about history and enjoy exploring its various aspec
   - Working on projects by myself and still improving skills
   - Participating in online courses
   - Reading documentation
- - **Improving skills in WebDesigning**
+- **Improving skills in WebDesigning**
   - Driving new opportunities to set-up home webpages
   - Developing my skills in HTML/CSS/HTML5 & JS
   - Collaboration with UI/UX designers
- - **Improving skills in Python**
+- **Improving skills in Python**
   - Preparing automatization for daily routine work.
   - Finding new ways of developing in Django/Flask
   - Looking for inspirations :)
