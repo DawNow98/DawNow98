@@ -5,7 +5,8 @@ Below you'll find some information about me and the projects I'm currently worki
 
 ## About Me
 
-I'm a technology and programming enthusiast, currently learning to build applications using Swift and the SwiftUI framework. 
+I'm a technology and programming enthusiast, currently learning to build applications using Swift and the SwiftUI framework.
+Apart from that I am also developing Web designing projects and Python codes to automatize daily-routine work.
 My interests also include other fields such as automotive, particularly Formula 1, and team sports like soccer and handball. 
 Additionally, I'm passionate about history and enjoy exploring its various aspects and cultures.
 
@@ -15,6 +16,16 @@ Additionally, I'm passionate about history and enjoy exploring its various aspec
   - Working on projects by myself and still improving skills
   - Participating in online courses
   - Reading documentation
+    
+ - **Improving skills in WebDesigning**
+  - Driving new opportunities to set-up home webpages
+  - Developing my skills in HTML/CSS/HTML5 & JS
+  - Collaboration with UI/UX designers
+    
+- **Improving skills in Python**
+  - Preparing automatization for daily routine work.
+  - Finding new ways of developing in Django/Flask
+  - Looking for inspirations :)
 
 ## Contact
 
